@@ -1,1 +1,3 @@
-Pierwsza wersja wszystko sprawnie. 
+Pierwsza wersja wszystko sprawnie.
+Ekserymentalna funkcjonalnosc:
+
